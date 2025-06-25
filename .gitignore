@@ -1,11 +1,9 @@
-/data
-
-# DVC cache
+# Ne pas versionner le cache DVC
 .dvc/cache/
 
-# Python
+# Fichiers Python compilés
 __pycache__/
 *.pyc
 
-# VSCode checkpoints
+# Checkpoints Jupyter
 .ipynb_checkpoints/
