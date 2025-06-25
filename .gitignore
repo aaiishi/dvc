@@ -1,0 +1,11 @@
+/data
+
+# DVC cache
+.dvc/cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# VSCode checkpoints
+.ipynb_checkpoints/
